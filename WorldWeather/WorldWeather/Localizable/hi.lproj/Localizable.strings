@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  WorldWeather
+
+  Created by Ashish Ashish on 10/03/21.
+  
+*/
+
+
+"hello_world" = "नमस्ते दुनिया";
+"world_weather" = "विश्व मौसम";
+"str_city" = "Ciudad: --";
+"str_condition" = "स्थिति: --";
+"str_temperature" = "तापमान: --";
+"str_high_low" = "उच्च: -- कम: --";

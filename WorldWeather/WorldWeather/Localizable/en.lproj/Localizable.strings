@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  WorldWeather
+
+  Created by Ashish Ashish on 10/03/21.
+  
+*/
+
+
+"hello_world" = "Hello World";
+"world_weather" = "World Weather";
+"str_city" = "City: --";
+"str_condition" = "Condition: --";
+"str_temperature" = "Temperature: --";
+"str_high_low" = "High: -- Low: --";
+
