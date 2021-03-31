@@ -30,7 +30,11 @@ class TableViewController: UITableViewController {
     }
 
 
-    override func numberOfSections(in tableView: UITableView) -> Int {
+//    override func numberOfSections(in tableView: UITableView) -> Int {
+//        return covidInfo.count
+//    }
+//
+    override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return covidInfo.count
     }
 
