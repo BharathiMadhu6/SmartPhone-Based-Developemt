@@ -29,11 +29,6 @@ class TableViewController: UITableViewController {
         getData()
     }
 
-
-//    override func numberOfSections(in tableView: UITableView) -> Int {
-//        return covidInfo.count
-//    }
-//
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return covidInfo.count
     }
