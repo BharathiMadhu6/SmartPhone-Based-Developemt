@@ -1,1 +1,1 @@
-# SmartPhone-Based-Developemt
+# SmartPhone-Based-Development
